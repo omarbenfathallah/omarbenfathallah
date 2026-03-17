@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-fathallah-omar/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:benfathallah.omar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omarbenfathallah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=flat&logo=firefox&logoColor=white)](#)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-1D9E75?style=flat&logo=firefox&logoColor=white](https://portfolio-omar-psi.vercel.app/))](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=omarbenfathallah&color=1D9E75&style=flat&label=Profile+Views)](https://github.com/omarbenfathallah)
 
 </div>
